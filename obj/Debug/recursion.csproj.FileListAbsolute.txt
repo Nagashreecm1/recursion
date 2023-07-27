@@ -1,0 +1,8 @@
+C:\dialytask\Assisted Practice\recursion\bin\Debug\recursion.exe.config
+C:\dialytask\Assisted Practice\recursion\bin\Debug\recursion.exe
+C:\dialytask\Assisted Practice\recursion\bin\Debug\recursion.pdb
+C:\dialytask\Assisted Practice\recursion\obj\Debug\recursion.csproj.AssemblyReference.cache
+C:\dialytask\Assisted Practice\recursion\obj\Debug\recursion.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Assisted Practice\recursion\obj\Debug\recursion.csproj.CoreCompileInputs.cache
+C:\dialytask\Assisted Practice\recursion\obj\Debug\recursion.exe
+C:\dialytask\Assisted Practice\recursion\obj\Debug\recursion.pdb
